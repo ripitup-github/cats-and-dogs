@@ -15,7 +15,7 @@
 - Anaconda
 - NVDIA GPU (**Recommend**)
 
-## How to install (only for Windows)
+## How to install
 - Make sure you use **Administrator** powershell, then:
 - `git clone https://github.com/ripitup-github/cats-and-dogs.git`
 - `cd ./cats_and_dogs`
