@@ -30,7 +30,7 @@
 ### Train convnet
 - Do `python cats_and_dogs.py`
 
-### Run predict
+### Predict
 - Put images into `test` folder
 - Do `python predict.py`
 - After it, you can find there is a extra folder `predicted`
