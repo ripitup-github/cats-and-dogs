@@ -1,7 +1,7 @@
 ## <center>Cats and Dogs</center>
 ### <center>A Simple Convnet for Image Identification</center>
 
-<center><img src= "https://raw.githubusercontent.com/ripitup-github/cats-and-dogs/main/demo.png"></center>
+<center><img src= "https://raw.githubusercontent.com/ripitup-github/cats-and-dogs/master/demo.png"></center>
 
 
 ## Overview
