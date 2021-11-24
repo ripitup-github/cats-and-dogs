@@ -13,7 +13,7 @@
 
 ## Requirements
 - Anaconda
-- NVDIA GPU (**Recommed**)
+- NVDIA GPU (**Recommend**)
 
 ## How to install (only for Windows)
 - Make sure you use **Administrator** powershell, then:
