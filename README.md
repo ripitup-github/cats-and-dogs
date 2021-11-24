@@ -21,11 +21,11 @@
 - `cd ./cats_and_dogs`
 - `conda env -create -f environment.yml`
 
-## After Installation, You Might Want To
+## How to use
 
 ### NOTE: before you run any commend, make sure your conda environment is activated, like this:
 
-### `(deep_learning) PS C:\Users\Attendre>`
+#### `(deep_learning) PS C:\Users\Attendre>`
 
 ### Train convnet
 - Do `python cats_and_dogs.py`
